@@ -1,6 +1,6 @@
 # Poke API Usando React
 
-Projeto listagem de pokémons usando React.
+Projeto listagem de pokémons usando React 😎
 
 ## Prévia
 
