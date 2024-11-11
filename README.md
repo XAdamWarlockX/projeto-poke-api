@@ -12,7 +12,7 @@ Esse é um projeto que lista uma API de pokémons.
 
 <img src="src/images/Prévia.gif" alt="gif do projeto">
 
-## Proposito da aplicação
+## Propósito da aplicação
 
 O propósito da aplicação é demonstrar minhas habilidades utilizando uma API no React com React route. Ela também foi criada usando o vite por ser mais atualizado e mais rápido. 
 
@@ -54,7 +54,7 @@ Os passos estão seguidos de seus respectivos comandos para facilitar no entendi
 
 1 - Clone o projeto
 ```
-git clone <url aqui>
+git clone "url do projeto"
 ```
 2 - Abra um terminal no projeto
 ```
