@@ -1,6 +1,12 @@
-# Poke API Usando React
+# Poke API
 
-Projeto listagem de pokémons usando React.
+Esse é um projeto que lista uma API de pokémons.
+
+## Linguagens usadas
+
+- JavaScript <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+- React <img align="center" alt="React" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
 
 ## Prévia
 
