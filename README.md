@@ -48,23 +48,29 @@ Também relacionado ao botão do alterador de tema, eu resolvi usar o mesmo esti
 
 Deixei tudo em inglês para criar uma boa prática e, porque o API que foi usado retornava as palavras em inglês ou alemão.
 
-## Passo a passo para rodar o projeto na sua maquina
+## Passo a passo para rodar o projeto na sua máquina
 
-Os passos estão seguidos de seus respectivos comandos para facilitar no entendimento.
+Para clonar o projeto você pode usar o terminal de sua preferência, o passo a passo a seguir usa os comandos do gitbash como exemplo.
 
-1 - Clone o projeto
+1 - Abra um terminal onde deseja colocar o projeto
+
+2 - Clone o projeto
 ```
 git clone "url do projeto"
 ```
-2 - Abra um terminal no projeto
+3 - Acesse a pasta do projeto
 ```
 cd poke-api
 ```
-3 - Instale as dependências do projeto
+4 - Instale as dependências do projeto
 ```
 npm install
 ```
-4 - Execute o projeto
+5 - Abra no vscode
+```
+cd .
+```
+6 -Execute o projeto
 ```
 npm run dev
 ```
