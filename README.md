@@ -6,6 +6,8 @@ Esse é um projeto que lista uma API de pokémons.
 
 - JavaScript <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
+- TypeScript <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+
 - React <img align="center" alt="React" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
 
 ## Prévia
@@ -50,7 +52,7 @@ Deixei tudo em inglês para criar uma boa prática e, porque o API que foi usado
 
 ## Passo a passo para rodar o projeto na sua máquina
 
-Para clonar o projeto você pode usar o terminal de sua preferência, o passo a passo a seguir usa os comandos do gitbash como exemplo.
+Para clonar o projeto você pode usar o terminal de sua preferência. O passo a passo a seguir usa os comandos do gitbash como exemplo.
 
 1 - Abra um terminal onde deseja colocar o projeto
 
@@ -66,11 +68,19 @@ cd poke-api
 ```
 npm install
 ```
-5 - Abra no vscode
+5 - Compile os arquivos TypeScript
+```
+npx tsc
+``` 
+ou
+```
+tsc
+```
+6 - Abra no vscode
 ```
 cd .
 ```
-6 -Execute o projeto
+7 -Execute o projeto
 ```
 npm run dev
 ```

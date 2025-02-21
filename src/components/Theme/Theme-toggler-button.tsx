@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { ThemeContext, themes } from "../../context/theme-context";
-import styled from "styled-components"
+import { Button } from "./ThemeStyles";
 
 const ThemeTogglerButton = () => {
 
@@ -14,13 +14,5 @@ const ThemeTogglerButton = () => {
         </>
     )
 }
-
-const Button = styled.button`
-    padding: 8px;
-    border-radius: 10px;
-    background-color: cornflowerblue;
-    cursor: pointer;
-    font-size: 18px;
-`
 
 export { ThemeTogglerButton, Button }

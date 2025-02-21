@@ -1,4 +1,4 @@
-import { ListPokemons } from "../components/ListPokemons/ListPokemons";
+import { ListPokemons } from "../components/List/ListPokemons";
 
 const Pokemons = () => {
     return (
