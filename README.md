@@ -2,7 +2,7 @@
 
 Esse é um projeto que lista uma API de pokémons.
 
-## Linguagens usadas
+## Tecnologias usadas
 
 - JavaScript <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
