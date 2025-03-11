@@ -52,7 +52,7 @@ Deixei tudo em inglês para criar uma boa prática e, porque o API que foi usado
 
 ## Passo a passo para rodar o projeto na sua máquina
 
-Para clonar o projeto você pode usar o terminal de sua preferência. O passo a passo a seguir usa os comandos do gitbash como exemplo.
+Para clonar o projeto, você pode usar o terminal de sua preferência. O passo a passo a seguir usa os comandos do gitbash como exemplo.
 
 1 - Abra um terminal onde deseja colocar o projeto
 
