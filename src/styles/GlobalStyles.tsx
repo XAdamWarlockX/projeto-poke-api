@@ -17,11 +17,10 @@ const GlobalStyle = createGlobalStyle`
   }
     
   body{
-    background-image: url('/src/images/pixel_art_landscape_by_inkimagine_dgz25tt-fullview.jpg');
+    background-image: url("/pixel_art_landscape.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
   }
-  
 `
 export { GlobalStyle }
